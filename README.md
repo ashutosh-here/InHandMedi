@@ -1,6 +1,6 @@
 # InHandMedi :ticket: :convenience_store::dark_sunglasses:
 
-A digital solution  to order medicines from local vendors to avoid delay in medical dispensing .
+A digital solution to order medications from nearby suppliers without delays in medical dispense.
 
 ## Tools & Technologies used :performing_arts:
 
